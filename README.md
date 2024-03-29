@@ -1,9 +1,9 @@
-##Title: Student Grade Calculator
+## Title: Student Grade Calculator
 
-##Description:
+## Description: 
 The Student Grade Calculator is a Python notebook project designed to assist teachers in calculating the final grades for students after each semester. This project is particularly useful for educators who need a streamlined process for evaluating student performance based on various components such as projects, assignments, and exam marks.
 
-##Features:
+## Features:
 
 *Input Management: The notebook provides a user-friendly interface for inputting student data, including their project scores, assignment scores, and exam marks.
 
@@ -19,13 +19,13 @@ The Student Grade Calculator is a Python notebook project designed to assist tea
 
 *Scalability: The project is scalable and can accommodate a large number of students and grading components without compromising performance.
 
-##How to Use:
+## How to Use:
 
-1.Clone the repository from GitHub.
-2. Open the Python notebook in Jupyter or any compatible environment.
-3. Follow the instructions provided within the notebook to input student data and calculate grades.
-4. Customize weightage and grading criteria as needed.
-5. Run the notebook to obtain the final grades for each student.
+1.Clone the repository from GitHub. 
+2. Open the Python notebook in Jupyter or any compatible environment. 
+3. Follow the instructions provided within the notebook to input student data and calculate grades. 
+4. Customize weightage and grading criteria as needed. 
+5. Run the notebook to obtain the final grades for each student. 
 6. Optionally, save the results or export them to a CSV file for further analysis.
 
 This Student Grade Calculator project aims to simplify the grading process for educators while ensuring transparency and accuracy in evaluating student performance. It provides a comprehensive solution for managing student grades effectively and facilitating informed decision-making in educational institutions.
